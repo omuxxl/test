@@ -1112,6 +1112,7 @@
             },
             "visible": true,
             "shape": "process",
+            "zIndex": 15,
             "ports": {
               "groups": {
                 "top": {
@@ -1195,7 +1196,6 @@
               ]
             },
             "id": "fea774b3-004a-4962-a48c-00b5d0e3089d",
-            "zIndex": 15,
             "data": {
               "type": "tm.Process",
               "name": "Gateway \nService",
